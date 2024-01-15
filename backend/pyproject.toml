@@ -2,7 +2,6 @@
 name = "dl-nlp-backend"
 version = "0.1.0"
 description = "NLP - DL course backend"
-authors = ["Vladislav Samoilenko <79825223592@yandex.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

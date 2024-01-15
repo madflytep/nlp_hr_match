@@ -1,4 +1,4 @@
-## DL Course - NLP
+## LLM Assistant to find a best vacancy and change your CV
 
 ### How to start
 
